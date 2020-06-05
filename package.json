@@ -1,0 +1,19 @@
+{
+  "name": "webpack-project-node",
+  "version": "1.0.0",
+  "scripts": {
+    "server": "node ./server/server.js"
+  },
+  "dependencies": {
+    "ali-oss": "^6.4.0",
+    "busboy": "^0.3.1",
+    "http": "0.0.0",
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "koa-sslify": "^4.0.3",
+    "koa-static": "^5.0.0",
+    "mongoose": "^5.6.3",
+    "request": "^2.88.0"
+  }
+}
